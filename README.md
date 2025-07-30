@@ -35,9 +35,6 @@
 MeMyselfI.ai is built using *microservices*, each dedicated to a specific functionality, enabling scalable development and deployment. Each service is loosely coupled, independently deployable, and communicates via well-defined REST APIs.
 
 ---
-## Screenshots
-
-![App Screenshot](https://github.com/AbdullahRafiq463/me_myselfi_ai/blob/main/IMG-20250728-WA0017.jpg)
 
 ## 🔧 Microservices
 
